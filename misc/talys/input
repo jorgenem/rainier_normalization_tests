@@ -1,0 +1,8 @@
+projectile alpha
+element W
+mass 184
+energy 26
+outpopulation y
+maxlevelstar 20
+maxlevelsbin p 20
+bins 64
